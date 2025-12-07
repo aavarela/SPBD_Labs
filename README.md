@@ -1,2 +1,3 @@
 # SPBD_Labs
-SPBD Practical Classes
+1. SPBD exercises from practical classes
+2. SPBD Project 1
